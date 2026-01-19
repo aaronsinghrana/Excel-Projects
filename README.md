@@ -2,73 +2,72 @@
 
 ### 🧾 Project Overview
 
-This project was completed as part of a **Data Technician bootcamp** and focuses on analysing **retail and sales data** using Microsoft Excel. The aim was to clean, explore, analyse and visualise data to uncover meaningful business insights and demonstrate core spreadsheet and data analysis skills.
+This project was completed during a **Data Technician bootcamp** and focuses on analysing **retail and sales data** using Microsoft Excel. The work demonstrates practical data analysis skills through the use of formulas, PivotTables and charts to generate clear business insights 😊
 
 ---
 
-### 🛠️ Skills & Techniques Used
+### 🛠️ Skills and Techniques Used
 
-Throughout this project, I applied a wide range of Excel features, including:
+#### 🔢 Formulas and Functions
 
-#### 🔢 Formulas & Functions
+* `SUM`, `SUMIF`
+* `AVERAGE`, `AVERAGEIF`
+* `DATE`, `MONTH`, `YEAR`
+* `UNIQUE`
+* `VLOOKUP`
+* `SWITCH` function for categorising sales performance
 
-* **Aggregation & conditional logic:**
-
-  * `SUM`, `SUMIF`
-  * `AVERAGE`, `AVERAGEIF`
-* **Date handling:**
-
-  * `DATE`, `MONTH`, `YEAR`
-* **Data cleaning & lookup:**
-
-  * `UNIQUE`
-  * `VLOOKUP`
-* **Categorisation & logic:**
-
-  * `SWITCH` function to group and classify sales performance
-
-These formulas were used to calculate totals, averages, time-based trends and to categorise products based on sales volume.
+These were used to calculate totals, averages, time-based trends and to group products by sales volume.
 
 ---
 
-#### 🔍 Data Analysis Techniques
+### 🔍 Data Analysis with PivotTables
 
-* Filtering and sorting datasets to focus on specific regions, products and time periods
-* Creating **PivotTables** to summarise sales by country, county, product, age group and gender
-* Identifying top-performing markets and products
-* Comparing performance across different demographic and geographic segments
+Filtering and sorting were applied to explore sales data by county, product and category. A PivotTable was created to summarise **sales volume by county and product**, enabling quick comparison across regions.
+
+![PivotTable showing sales volume by county and product](attachment:7577a65d-117d-4959-800c-cee8e3d5f069.png)
+
+**Key insights from the PivotTable include:**
+
+* Laptops generated the highest overall sales volume
+* Cornwall and Essex were among the strongest performing counties
+* Smartphones performed particularly well in Greater Manchester
 
 ---
 
-#### 📈 Data Visualisation
+### 📈 Data Visualisation and Charts
 
-* Built **charts and visual summaries** to clearly present retail and sales trends
-* Used PivotCharts to support insights generated from PivotTables
-* Focused on making insights easy to understand for non-technical stakeholders
+Charts were created to clearly communicate trends and insights to non-technical audiences. The pie chart below compares **revenue by age group**, highlighting customer demographics.
+
+![Revenue comparison by age group pie chart](attachment\:bbdd64d8-d5e6-4451-9b40-5a268b6d8681.png)
+
+**Insights from the chart:**
+
+* Adults (35–64) are the largest revenue contributors
+* Young Adults (25–34) represent a significant secondary group
+* Seniors (64+) contribute minimal revenue
 
 ---
 
 ### 💡 Key Outcomes
 
-* Identified the most profitable markets, customer groups and products
-* Categorised products by sales performance using logical functions
-* Improved confidence in working with real-world retail datasets
-* Strengthened practical Excel skills used in entry-level data roles
+* Identified top-performing counties, products and age groups
+* Used logical functions to categorise sales performance
+* Improved confidence working with real-world retail datasets
+* Strengthened Excel skills commonly required in data technician roles 📊
 
 ---
 
 ### 🚀 Tools Used
 
 * Microsoft Excel
-* PivotTables & PivotCharts
+* PivotTables and PivotCharts
 * Built-in Excel formulas and functions
 
 ---
 
 ### 📌 Summary
 
-This project demonstrates my ability to **analyse, summarise and visualise data in Excel**, using industry-relevant techniques. It reflects hands-on experience gained during the Data Technician bootcamp and showcases key skills required for data-focused roles.
+This project demonstrates the ability to **analyse, summarise and visualise data in Excel** using industry-relevant techniques. It reflects hands-on experience gained during the Data Technician bootcamp and showcases core spreadsheet skills suitable for entry-level data roles.
 
-📊📉📈
-
----
+📈📉📊
